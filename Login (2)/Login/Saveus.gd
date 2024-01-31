@@ -4,6 +4,7 @@ const ARCHIVO="user://Usuarios.xd"
 
 var nombre :String
 var password: String
+var texto
 func _ready():
 	cargar()
 	pass # Replace with function body.
@@ -55,13 +56,17 @@ func iniciosesion(user: String,contra: String):
 				var nombre_actual = datos[0]
 				var contra_actual = datos[1]
 				print("nombre: ", nombre_actual, " contra: ", contra_actual)
-				if user == nombre_actual and contra==contra_actual:
-					print("Usuario encontrado:", user, " Contraseña:", contra_actual)
+				if user == nombre_actual: 
+					if contra==contra_actual:
+						print("Usuario encontrado:", user, " Contraseña:", contra_actual)
+					else:
+						texto="Contraseña incorrecta"
+						return false
 					return true
 	file.close()
+	texto="Usuario Inexistente"
 	return false
 
 func _process(delta):
 	pass
-
 

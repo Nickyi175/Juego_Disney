@@ -29,7 +29,7 @@ func _on_login_pressed():
 			informacion.text="BIENVENIDO"
 			print("funciona")
 		else:
-			informacion.text="Usuario Inexistente"
+			informacion.text=Saveus.texto
 			print("user inexistente")
 	pass # Replace with function body.
 

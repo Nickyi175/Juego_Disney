@@ -26,6 +26,7 @@ func _on_login_pressed():
 		var name=textuser.text
 		var cont=textcontra.text
 		if Saveus.iniciosesion(name,cont):
+			informacion.text="BIENVENIDO"
 			print("funciona")
 		else:
 			informacion.text="Usuario Inexistente"

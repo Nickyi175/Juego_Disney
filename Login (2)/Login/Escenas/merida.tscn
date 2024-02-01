@@ -1,6 +1,6 @@
 [gd_scene load_steps=39 format=3 uid="uid://c5y3gl3fd7y82"]
 
-[ext_resource type="Script" path="res://merida.gd" id="1_o2rhs"]
+[ext_resource type="Script" path="res://Escenas/merida.gd" id="1_o2rhs"]
 [ext_resource type="Texture2D" uid="uid://llql76dj2oct" path="res://Art/Sprites/Imagen_de_WhatsApp_2024-01-30_a_las_13.12.02_1fb088c7-removebg-preview.png" id="2_sp041"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_2p3uw"]

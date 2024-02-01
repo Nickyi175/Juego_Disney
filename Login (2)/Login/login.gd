@@ -37,4 +37,4 @@ func _on_login_pressed():
 
 func _on_registro_pressed():
 	get_tree().change_scene_to_file("res://registro.tscn")
-	pass # Replace with function body.
+	pass 

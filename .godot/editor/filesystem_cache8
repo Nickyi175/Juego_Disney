@@ -1,0 +1,57 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706764460
+::res://Art/::1706763873
+::res://Art/Escenarios_Mundos/::1706763986
+celianna_carpentrytiles.png::CompressedTexture2D::2647963359369951752::1706763873::1706763986::1::::<><>::
+celianna_prison_torture.png::CompressedTexture2D::8792307181747644133::1706763873::1706763986::1::::<><>::
+celianna_taverntiles_preset.png::CompressedTexture2D::2890202709358767529::1706763873::1706763986::1::::<><>::
+descarga (3).jpeg::CompressedTexture2D::3336217765949841290::1706763873::1706763986::1::::<><>::
+galletcity.png::CompressedTexture2D::6018809601610361728::1706763873::1706763986::1::::<><>::
+galletcity_tiles.png::CompressedTexture2D::2849532527500265754::1706763873::1706763985::1::::<><>::
+Imagen de WhatsApp 2024-01-30 a las 19.34.25_6a22e99f.jpg::CompressedTexture2D::6760748958885846550::1706763873::1706763986::1::::<><>::
+Imagen_de_WhatsApp_2024-01-30_a_las_17.10.54_e87b6c11-removebg-preview-removebg-preview.png::CompressedTexture2D::4781942726850292448::1706763873::1706763985::1::::<><>::
+mundo1.jpg::CompressedTexture2D::4601756294188152394::1706763873::1706763985::1::::<><>::
+::res://Art/Fondos_Imagenes/::1706763986
+arboles.png::CompressedTexture2D::103441821020586138::1706763873::1706763985::1::::<><>::
+bosque.jpeg::CompressedTexture2D::5706639247148507356::1706763873::1706763985::1::::<><>::
+celianna_castletiles (1).png::CompressedTexture2D::7865325795883594822::1706763873::1706763986::1::::<><>::
+celianna_librarytiles-removebg-preview.png::CompressedTexture2D::4540298862930207602::1706763873::1706763985::1::::<><>::
+descarga (3).jpeg::CompressedTexture2D::5809646281589706684::1706763873::1706763985::1::::<><>::
+Imagen de WhatsApp 2024-01-28 a las 15.03.14_8879de51.jpg::CompressedTexture2D::9073685154327753637::1706763873::1706763985::1::::<><>::
+Imagen_de_WhatsApp_2024-01-30_a_las_17.10.54_e87b6c11-removebg-preview.png::CompressedTexture2D::5453788728109180345::1706763873::1706763985::1::::<><>::
+::res://Art/Font/::1706763984
+pf_ronda_seven.ttf::FontFile::4964079880369388969::1706763873::1706763984::1::::<><>::
+pf_ronda_seven_bold.ttf::FontFile::5567492101298492342::1706763873::1706763984::1::::<><>::
+PressStart2P.ttf::FontFile::1644642726403598903::1706763873::1706763948::1::::<><>::
+::res://Art/Imagenes Narrativa/::1706763986
+mickey italia.jpeg::CompressedTexture2D::262811812063718711::1706763873::1706763986::1::::<><>::
+OIG2.Uv.78I.jpeg::CompressedTexture2D::2263745108768503770::1706763873::1706763985::1::::<><>::
+_5acdd45c-d0fb-4765-9ead-92ebb02c448a.jpeg::CompressedTexture2D::8026794455288588265::1706763873::1706763985::1::::<><>::
+_5f306ca8-1cc2-4529-93e5-ae0f84673d16.jpeg::CompressedTexture2D::1985703919642749539::1706763873::1706763985::1::::<><>::
+_8bc87d48-8fb2-44bb-8c6b-8839f5f4fdb7.jpeg::CompressedTexture2D::1632346689273507305::1706763873::1706763985::1::::<><>::
+_539269a5-452a-4602-b2c0-155ca9eb6c6d.jpeg::CompressedTexture2D::5949791706441869604::1706763873::1706763985::1::::<><>::
+_de9b5ef9-4120-452b-b9aa-cca62d515cf8.jpeg::CompressedTexture2D::3109449324178746273::1706763873::1706763985::1::::<><>::
+_ee8acc29-11e1-4850-ac83-ee6bc977edc8.jpeg::CompressedTexture2D::9156239256223537375::1706763873::1706763985::1::::<><>::
+_ee279de8-9cee-4d23-aafd-b514dc6f66d0.jpeg::CompressedTexture2D::5838376523716516918::1706763873::1706763985::1::::<><>::
+::res://Art/Sounds/::1706763984
+Antonio Vivaldi - Storm.mp3::AudioStreamMP3::3142191196556060240::1706763873::1706763984::1::::<><>::
+AVENGERS_ ENDGAME Trailer 2 Music Version  Best Proper Movie Trailer Soundtrack Final Theme Song.mp3::AudioStreamMP3::367239347221640487::1706763873::1706763984::1::::<><>::
+typewriting.mp3::AudioStreamMP3::6099679764133464708::1706763873::1706763984::1::::<><>::
+::res://Art/Sprites/::1706763985
+cenincienta1.png::CompressedTexture2D::5099585412163739579::1706763873::1706763984::1::::<><>::
+Imagen_de_WhatsApp_2024-01-30_a_las_13.12.02_1fb088c7-removebg-preview.png::CompressedTexture2D::795778279715783319::1706763873::1706763984::1::::<><>::
+::res://Escenas/::1706763873
+character_body_2d.gd::GDScript::-1::1706763873::0::1::::<>CharacterBody2D<>::
+character_body_2d.tscn::PackedScene::8099553365337456122::1706763873::0::1::::<><>::res://Escenas/character_body_2d.gd<>uid://cewjorihj2b4v::::res://Art/Sprites/cenincienta1.png
+dr__and_perry_world.tscn::PackedScene::7278719565257558599::1706763873::0::1::::<><>::
+inicioworld.tscn::PackedScene::3113566574792224512::1706763873::0::1::::<><>::uid://caen5sfm1llwq::::res://Art/Escenarios_Mundos/Imagen_de_WhatsApp_2024-01-30_a_las_17.10.54_e87b6c11-removebg-preview-removebg-preview.png<>uid://dkca1clffxib3::::res://Art/Fondos_Imagenes/celianna_castletiles (1).png<>uid://bdyxtmr1sgiii::::res://Art/Escenarios_Mundos/celianna_carpentrytiles.png<>uid://b5xmcaebujqw5::::res://Art/Fondos_Imagenes/celianna_librarytiles-removebg-preview.png<>uid://cjx4drxw3xnan::::res://Art/Fondos_Imagenes/Imagen_de_WhatsApp_2024-01-30_a_las_17.10.54_e87b6c11-removebg-preview.png<>uid://c5y3gl3fd7y82::::res://Escenas/merida.tscn<>uid://dxjcarahe5akb::::res://Art/Escenarios_Mundos/celianna_prison_torture.png
+login.tscn::PackedScene::6910556164358471849::1706763873::0::1::::<><>::res://login.gd<>uid://3vbq2ilfmu8h::::res://fondologin.jpg
+merida.tscn::PackedScene::6929763154429346605::1706763873::0::1::::<><>::res://merida.gd<>uid://llql76dj2oct::::res://Art/Sprites/Imagen_de_WhatsApp_2024-01-30_a_las_13.12.02_1fb088c7-removebg-preview.png
+mundo_principal.tscn::PackedScene::8507059815107002848::1706763873::0::1::::<><>::uid://dnnqpwoe88nfe::::res://Escenas/character_body_2d.tscn<>uid://c3k7svaw8757o::::res://Art/Escenarios_Mundos/Imagen de WhatsApp 2024-01-30 a las 19.34.25_6a22e99f.jpg
+Narrative.tscn::PackedScene::6270378135353247526::1706763873::0::1::::<><>::
+spidey.tscn::PackedScene::8849412464533320220::1706763873::0::1::::<><>::
+::res://Login (2)/::1706675432
+::res://Scripts/::1706763873
+cenicienta.gd::GDScript::-1::1706763873::0::1::::<>CharacterBody2D<>::
+merida.gd::GDScript::-1::1706763873::0::1::::<>CharacterBody2D<>::
+textbox.gd::GDScript::-1::1706763873::0::1::::<>CanvasLayer<>::

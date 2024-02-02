@@ -6689,7 +6689,7 @@ layer_0/tile_data = PackedInt32Array(1114138, 1507328, 20, 1179674, 1507328, 20,
 position = Vector2(3, 0)
 
 [node name="ruleta" type="Sprite2D" parent="."]
-position = Vector2(182.5, 553.25)
+position = Vector2(904, 572)
 scale = Vector2(1.49, 1.315)
 texture = ExtResource("9_srnwf")
 
@@ -6697,7 +6697,7 @@ texture = ExtResource("9_srnwf")
 position = Vector2(231, 578)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
-position = Vector2(-46.5, -26.5)
+position = Vector2(669, -10)
 shape = SubResource("RectangleShape2D_kh2er")
 
 [connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
